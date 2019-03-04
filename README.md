@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/github/license/snipsco-samples/quickstart-unity.svg)](https://github.com/snipsco-samples/quickstart-unity/blob/master/LICENSE)
 
-Sample code for the [Unity Quick Start](https://docs.snips.ai/getting-started/quick-start-unity) guide on the [Snips Dev Center](https://docs.snips.ai).
+Sample code for the [Unity Quick Start](https://docs.snips.ai/apps/unity/quick-start) guide on the [Snips Dev Center](https://docs.snips.ai).
 
 ## Contributing
 
